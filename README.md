@@ -1,8 +1,9 @@
-# OptiCore — Intelligent CPU Scheduling Optimizer
-
 <p align="center">
   <img src="opticore_logo.png" alt="OptiCore Logo" width="150"/>
 </p>
+# OptiCore
+###Intelligent CPU Scheduling Optimizer
+
 
 <p align="center"><i>Optimizing CPU scheduling through intelligent algorithms.</i></p>
 
