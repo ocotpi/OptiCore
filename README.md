@@ -1,33 +1,34 @@
 <p align="center">
-  <img src="opticore_logo.png" alt="OptiCore Logo" width="150"/>
+  <img src="opticore_logo.png" alt="OptiCore Logo" width="140"/>
 </p>
+
+<h1 align="center" style="color:#D3D3D3; font-weight:600; margin-bottom:0;">
+  OptiCore
+</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/settings.svg" width="22" style="vertical-align:middle; margin-right:4px;"/>
-  <span style="color:#D3D3D3; font-size:28px; font-weight:600;">OptiCore</span>
-</p>
-
-<p align="center" style="font-size:16px; color:#B0B0B0;">
-  <b>Smart CPU Scheduling Optimizer</b><br>
-  <i>Harnessing algorithms that think — to make processors work smarter.</i>
+  <img src="https://img.icons8.com/fluency/48/gear.png" width="20" style="vertical-align:middle; margin-right:6px;"/>
+  <span style="font-size:17px; color:#C0C0C0;">Smart CPU Scheduling Optimizer</span><br>
+  <i style="color:#9CA3AF;">Optimizing CPU scheduling through intelligent algorithms.</i>
 </p>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/star.svg" width="20"/> Overview
+## <img src="https://img.icons8.com/color/48/star--v1.png" width="22" style="vertical-align:middle;"/> Overview
 
 **OptiCore** is an interactive tool that optimizes CPU scheduling using a **Genetic Algorithm (GA)**.  
-It benchmarks traditional scheduling algorithms like **FCFS**, **SJF**, **Priority**, and **Round Robin**, then evolves optimized hybrids that minimize **average waiting time**, **turnaround time**, and **context switching**.
+It benchmarks traditional scheduling algorithms such as **FCFS**, **SJF**, **Priority**, and **Round Robin**,  
+then evolves optimized hybrids that minimize **average waiting time**, **turnaround time**, and **context switching**.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/rocket.svg" width="20"/> Features
+## <img src="https://img.icons8.com/color/48/rocket--v1.png" width="22" style="vertical-align:middle;"/> Features
 
 - Compare baseline algorithms: FCFS, SJF, Priority, and Round Robin  
-- Optimize dynamically with a **Genetic Algorithm**  
+- Optimize dynamically using a **Genetic Algorithm**  
 - Visualize results with **Gantt charts** and **performance graphs**  
-- Interactive parameter control (process inputs, GA tuning)  
-- Reports key metrics:
+- Interactive process and GA parameter controls  
+- Analyze performance metrics:
   - Average Waiting Time  
   - Average Turnaround Time  
   - Context Switch Count  
@@ -35,7 +36,7 @@ It benchmarks traditional scheduling algorithms like **FCFS**, **SJF**, **Priori
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="20"/> Tech Stack
+## <img src="https://img.icons8.com/color/48/python--v1.png" width="22" style="vertical-align:middle;"/> Tech Stack
 
 | Component | Description |
 |------------|-------------|
@@ -46,38 +47,38 @@ It benchmarks traditional scheduling algorithms like **FCFS**, **SJF**, **Priori
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tools.svg" width="20"/> How to Run
+## <img src="https://img.icons8.com/color/48/maintenance.png" width="22" style="vertical-align:middle;"/> How to Run
 
 1. Open the OptiCore notebook in **Google Colab**.  
-2. Run all cells in order.  
-3. Adjust the sliders and inputs for:
+2. Run all cells in sequence.  
+3. Adjust the sliders to set:
    - Number of processes  
    - GA population size  
    - Generations  
    - Mutation rate  
 4. Click **Run GA Optimizer** to evolve the best schedule.  
-5. Click **Compare Baselines** to benchmark traditional algorithms.
+5. Use **Compare Baselines** to benchmark traditional algorithms.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bar-chart.svg" width="20"/> Visualization
+## <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="22" style="vertical-align:middle;"/> Visualization
 
-- **Bar Chart:** Compares average waiting and turnaround times.  
-- **Gantt Chart:** Displays process execution order and duration.  
-- **Convergence Plot:** Tracks optimization progress over generations.  
+- **Bar Chart:** Compare average waiting and turnaround times.  
+- **Gantt Chart:** Visualize process execution timelines.  
+- **Convergence Plot:** Track optimization progress per generation.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/image.svg" width="20"/> Project Media
+## <img src="https://img.icons8.com/color/48/gallery.png" width="22" style="vertical-align:middle;"/> Project Media
 
 Add visuals such as:
-- *OptiCore Interface* — interactive dashboard  
-- *Gantt Chart Visualization* — optimized scheduling view  
-- *Performance Comparison Graph* — baseline vs optimized  
+- *OptiCore Interface* — interactive dashboard view  
+- *Gantt Chart Visualization* — optimized CPU schedule  
+- *Performance Comparison Graph* — baseline vs optimized performance  
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="20"/> Demo Video
+## <img src="https://img.icons8.com/color/48/youtube-play.png" width="22" style="vertical-align:middle;"/> Demo Video
 
 A short 2–5 minute video demonstrating:
 - Concept and workflow  
@@ -87,14 +88,14 @@ A short 2–5 minute video demonstrating:
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecolab.svg" width="20"/> Try It Out
+## <img src="https://img.icons8.com/color/48/google-colab.png" width="22" style="vertical-align:middle;"/> Try It Out
 
 [**Open in Google Colab**](https://colab.research.google.com/drive/14iPkY02G_-g00-JRIzFIzTJiz-UizSHs?usp=sharing)
 
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/lightbulb.svg" width="18" style="vertical-align:middle; margin-right:4px;"/>
-  <i>OptiCore — because smarter scheduling means faster systems.</i><br>
-  <sub>Built with precision, performance, and purpose.</sub>
+  <img src="https://img.icons8.com/fluency/48/light-on.png" width="18" style="vertical-align:middle; margin-right:4px;"/>
+  <i>OptiCore — where intelligent design meets optimized performance.</i><br>
+  <sub>Crafted for clarity, built for efficiency.</sub>
 </p>
