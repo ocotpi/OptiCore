@@ -1,11 +1,14 @@
 <p align="center">
   <img src="opticore_logo.png" alt="OptiCore Logo" width="150"/>
 </p>
-# OptiCore
-###Intelligent CPU Scheduling Optimizer
 
+<h1 align="center" style="color:#D3D3D3; font-weight:normal;">
+  Intelligent CPU Scheduling Optimizer
+</h1>
 
-<p align="center"><i>Optimizing CPU scheduling through intelligent algorithms.</i></p>
+<p align="center">
+  <i>Optimizing CPU scheduling through intelligent algorithms.</i>
+</p>
 
 ---
 
