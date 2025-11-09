@@ -3,9 +3,10 @@
 </p>
 
 <h1 align="center" style="color:#D3D3D3; font-weight:normal;">
-  Intelligent CPU Scheduling Optimizer
+  Opticore
 </h1>
 
+<h3> Intelligent CPU Scheduling Optimizer</h3>
 <p align="center">
   <i>Optimizing CPU scheduling through intelligent algorithms.</i>
 </p>
