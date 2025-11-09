@@ -8,7 +8,6 @@
 
 <p align="center">
   ⚙️<span style="font-size:17px;">Smart CPU Scheduling Optimizer</span><br>
-  <i style="color:#9CA3AF;">Optimizing CPU scheduling through intelligent algorithms.</i>
 </p>
 
 ---
@@ -95,6 +94,6 @@ A short 2–5 minute video demonstrating:
 
 <p align="center">
   <img src="https://img.icons8.com/fluency/48/light-on.png" width="18" style="vertical-align:middle; margin-right:4px;"/>
-  <i>OptiCore — where intelligent design meets optimized performance.</i><br>
+  <i>OptiCore — Optimizing CPU scheduling through intelligent algorithms.</i><br>
   <sub>Crafted for clarity, built for efficiency.</sub>
 </p>
