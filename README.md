@@ -7,8 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/gear.png" width="20" style="vertical-align:middle; margin-right:6px;"/>
-  <span style="font-size:17px;">Smart CPU Scheduling Optimizer</span><br>
+  ⚙️<span style="font-size:17px;">Smart CPU Scheduling Optimizer</span><br>
   <i style="color:#9CA3AF;">Optimizing CPU scheduling through intelligent algorithms.</i>
 </p>
 
