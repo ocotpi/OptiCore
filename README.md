@@ -74,15 +74,6 @@ Add visuals such as:
 - *Gantt Chart Visualization* — optimized CPU schedule  
 - *Performance Comparison Graph* — baseline vs optimized performance  
 
----
-
-## <img src="https://img.icons8.com/color/48/youtube-play.png" width="22" style="vertical-align:middle;"/> Demo Video
-
-A short 2–5 minute video demonstrating:
-- Concept and workflow  
-- Interface and interactivity  
-- GA optimization process  
-- Visualization of results  
 
 ---
 
