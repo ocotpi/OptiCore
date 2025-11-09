@@ -3,10 +3,13 @@
 </p>
 
 <h1 align="center" style="color:#D3D3D3; font-weight:normal;">
-  Opticore
+  OptiCore
 </h1>
 
-<h3> Intelligent CPU Scheduling Optimizer</h3>
+<h3 align="center" style="color:#A9A9A9; font-weight:normal;">
+  Intelligent CPU Scheduling Optimizer
+</h3>
+
 <p align="center">
   <i>Optimizing CPU scheduling through intelligent algorithms.</i>
 </p>
@@ -16,15 +19,15 @@
 ## Overview
 
 **OptiCore** is an interactive tool that optimizes CPU scheduling using a Genetic Algorithm (GA).  
-It benchmarks traditional scheduling algorithms like FCFS, SJF, Priority, and Round Robin, and then evolves optimized hybrids that minimize average waiting time, turnaround time, and context switching.
+It benchmarks traditional scheduling algorithms like **FCFS**, **SJF**, **Priority**, and **Round Robin**, and then evolves optimized hybrids that minimize **average waiting time**, **turnaround time**, and **context switching**.
 
 ---
 
 ## Features
 
 - Compare multiple baseline scheduling algorithms (FCFS, SJF, Priority, Round Robin).  
-- Optimize scheduling dynamically with a Genetic Algorithm.  
-- Visualize results with Gantt charts and performance graphs.  
+- Optimize scheduling dynamically with a **Genetic Algorithm**.  
+- Visualize results with **Gantt charts** and **performance graphs**.  
 - Interactive interface for setting process parameters and GA configurations.  
 - Reports key performance metrics:
   - Average Waiting Time  
@@ -38,10 +41,10 @@ It benchmarks traditional scheduling algorithms like FCFS, SJF, Priority, and Ro
 
 | Component | Description |
 |------------|-------------|
-| Language | Python 3 |
-| Libraries | Matplotlib, NumPy, ipywidgets |
-| Algorithm | Genetic Algorithm |
-| Environment | Jupyter / Google Colab |
+| **Language** | Python 3 |
+| **Libraries** | Matplotlib, NumPy, ipywidgets |
+| **Algorithm** | Genetic Algorithm |
+| **Environment** | Jupyter / Google Colab |
 
 ---
 
@@ -87,8 +90,7 @@ A short (2–5 minute) demo showing:
 
 ## Colab Link
 
-[**Open in Google Colab**]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/14iPkY02G_-g00-JRIzFIzTJiz-UizSHs?usp=sharing))
-
+[**Open in Google Colab**](https://colab.research.google.com/drive/14iPkY02G_-g00-JRIzFIzTJiz-UizSHs?usp=sharing)
 
 ---
 
